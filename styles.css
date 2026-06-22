@@ -17,9 +17,10 @@ body {
     margin: 0;
     background-color: #0f172a;
     color: #e2e8f0;
-    min-width:500px;
+    max-width: 100%;
     display:grid;
     grid-template-columns:1fr;
+    
 }
 
 header {
